@@ -27,3 +27,4 @@ function getItem(item) {
 }
 let concatResult = getItem([12, 23, 1, 3, 5]);
 let concatString = getItem(['frf', 'erer', 'erer']);
+//# sourceMappingURL=function.js.map
